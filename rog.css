@@ -19,12 +19,12 @@ header{
 #city{
     display: none;
     color: white;
-    margin-right: 10px;
+    /* margin-right: 10px; */
 }
 #city1{
     display: none;
     color: white;
-    margin-left: 50px;
+    margin-left: 5px;
 }
 
 #demo{
